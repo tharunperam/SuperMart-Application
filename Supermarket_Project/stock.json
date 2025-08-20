@@ -1,0 +1,148 @@
+[
+    {
+        "id": 101,
+        "name": "Milk",
+        "price": 20.0,
+        "quantity": 524,
+        "min_stock": 15
+    },
+    {
+        "id": 102,
+        "name": "Bread",
+        "price": 10.0,
+        "quantity": 540,
+        "min_stock": 15
+    },
+    {
+        "id": 103,
+        "name": "Rice 5kg",
+        "price": 250.0,
+        "quantity": 20,
+        "min_stock": 15
+    },
+    {
+        "id": 104,
+        "name": "Sugar 1kg",
+        "price": 45.0,
+        "quantity": 27,
+        "min_stock": 15
+    },
+    {
+        "id": 105,
+        "name": "Salt 1kg",
+        "price": 20.0,
+        "quantity": 58,
+        "min_stock": 15
+    },
+    {
+        "id": 106,
+        "name": "Cooking Oil 1L",
+        "price": 140.0,
+        "quantity": 25,
+        "min_stock": 15
+    },
+    {
+        "id": 107,
+        "name": "Eggs (12 pack)",
+        "price": 75.0,
+        "quantity": 30,
+        "min_stock": 15
+    },
+    {
+        "id": 108,
+        "name": "Tea Powder 500g",
+        "price": 180.0,
+        "quantity": 18,
+        "min_stock": 15
+    },
+    {
+        "id": 109,
+        "name": "Coffee Powder 200g",
+        "price": 150.0,
+        "quantity": 15,
+        "min_stock": 15
+    },
+    {
+        "id": 110,
+        "name": "Biscuits Pack",
+        "price": 30.0,
+        "quantity": 50,
+        "min_stock": 15
+    },
+    {
+        "id": 111,
+        "name": "Noodles Pack",
+        "price": 25.0,
+        "quantity": 25,
+        "min_stock": 15
+    },
+    {
+        "id": 112,
+        "name": "Soap Bar",
+        "price": 28.0,
+        "quantity": 80,
+        "min_stock": 15
+    },
+    {
+        "id": 113,
+        "name": "Shampoo Bottle",
+        "price": 120.0,
+        "quantity": 25,
+        "min_stock": 15
+    },
+    {
+        "id": 114,
+        "name": "Toothpaste 150g",
+        "price": 55.0,
+        "quantity": 35,
+        "min_stock": 15
+    },
+    {
+        "id": 115,
+        "name": "Detergent Powder 1kg",
+        "price": 95.0,
+        "quantity": 22,
+        "min_stock": 15
+    },
+    {
+        "id": 116,
+        "name": "Chocolate Bar",
+        "price": 40.0,
+        "quantity": 60,
+        "min_stock": 15
+    },
+    {
+        "id": 117,
+        "name": "Ice Cream Tub",
+        "price": 200.0,
+        "quantity": 10,
+        "min_stock": 15
+    },
+    {
+        "id": 118,
+        "name": "Soft Drink 2L",
+        "price": 10.0,
+        "quantity": 525,
+        "min_stock": 15
+    },
+    {
+        "id": 119,
+        "name": "Mineral Water 1L",
+        "price": 10.0,
+        "quantity": 100,
+        "min_stock": 15
+    },
+    {
+        "id": 120,
+        "name": "Chips Pack",
+        "price": 35.0,
+        "quantity": 35,
+        "min_stock": 15
+    },
+    {
+        "id": 121,
+        "name": "Papers",
+        "price": 50.0,
+        "quantity": 50
+    }
+]

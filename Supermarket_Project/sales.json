@@ -1,0 +1,350 @@
+[
+    {
+        "date": "2025-08-12 14:36:12",
+        "items": [
+            {
+                "id": 102,
+                "name": "Bread",
+                "price": 15.0,
+                "quantity": 1,
+                "subtotal": 15.0
+            }
+        ],
+        "total": 15.0
+    },
+    {
+        "date": "2025-08-13 16:13:36",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "price": 25.0,
+                "quantity": 2,
+                "subtotal": 50.0
+            }
+        ],
+        "total": 50.0
+    },
+    {
+        "date": "2025-08-15 10:30:01",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 2,
+                "subtotal": 48.0,
+                "profit": 8.0
+            }
+        ],
+        "total": 48.0,
+        "total_profit": 8.0
+    },
+    {
+        "date": "2025-08-15 10:34:13",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 2,
+                "subtotal": 48.0,
+                "profit": 8.0
+            }
+        ],
+        "total": 48.0,
+        "total_profit": 8.0
+    },
+    {
+        "date": "2025-08-15 10:36:49",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 20,
+                "subtotal": 480.0,
+                "profit": 80.0
+            }
+        ],
+        "total": 480.0,
+        "total_profit": 80.0
+    },
+    {
+        "date": "2025-08-15 10:37:03",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 1,
+                "subtotal": 24.0,
+                "profit": 4.0
+            }
+        ],
+        "total": 24.0,
+        "total_profit": 4.0
+    },
+    {
+        "date": "2025-08-15 10:37:24",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 1,
+                "subtotal": 24.0,
+                "profit": 4.0
+            }
+        ],
+        "total": 24.0,
+        "total_profit": 4.0
+    },
+    {
+        "date": "2025-08-15 10:40:31",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 1,
+                "subtotal": 24.0,
+                "profit": 4.0
+            }
+        ],
+        "total": 24.0,
+        "total_profit": 4.0
+    },
+    {
+        "date": "2025-08-15 10:41:07",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 2,
+                "subtotal": 48.0,
+                "profit": 8.0
+            }
+        ],
+        "total": 48.0,
+        "total_profit": 8.0
+    },
+    {
+        "date": "2025-08-15 10:43:32",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 70,
+                "subtotal": 1680.0,
+                "profit": 280.0
+            }
+        ],
+        "total": 1680.0,
+        "total_profit": 280.0
+    },
+    {
+        "date": "2025-08-15 10:47:37",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 5,
+                "subtotal": 120.0,
+                "profit": 20.0
+            }
+        ],
+        "total": 120.0,
+        "total_profit": 20.0
+    },
+    {
+        "date": "2025-08-15 10:51:50",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 1,
+                "subtotal": 24.0,
+                "profit": 4.0
+            }
+        ],
+        "total": 24.0,
+        "total_profit": 4.0
+    },
+    {
+        "date": "2025-08-19 19:06:40",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 2,
+                "subtotal": 48.0,
+                "profit": 8.0
+            },
+            {
+                "id": 104,
+                "name": "Sugar 1kg",
+                "purchase_price": 45.0,
+                "selling_price": 54.0,
+                "quantity": 3,
+                "subtotal": 162.0,
+                "profit": 27.0
+            },
+            {
+                "id": 105,
+                "name": "Salt 1kg",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 2,
+                "subtotal": 48.0,
+                "profit": 8.0
+            }
+        ],
+        "total": 247.68,
+        "total_profit": 32.68
+    },
+    {
+        "date": "2025-08-19 21:01:12",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 5,
+                "subtotal": 120.0,
+                "profit": 20.0
+            }
+        ],
+        "total": 120.0,
+        "total_profit": 20.0
+    },
+    {
+        "date": "2025-08-19 21:06:31",
+        "items": [
+            {
+                "id": 111,
+                "name": "Noodles Pack",
+                "purchase_price": 25.0,
+                "selling_price": 30.0,
+                "quantity": 20,
+                "subtotal": 600.0,
+                "profit": 100.0
+            }
+        ],
+        "total": 600.0,
+        "total_profit": 100.0
+    },
+    {
+        "date": "2025-08-19 21:16:55",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 15,
+                "subtotal": 360.0,
+                "profit": 60.0
+            }
+        ],
+        "total": 360.0,
+        "total_profit": 60.0
+    },
+    {
+        "date": "2025-08-19 21:21:39",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 50,
+                "subtotal": 1200.0,
+                "profit": 200.0
+            }
+        ],
+        "total": 1200.0,
+        "total_profit": 200.0
+    },
+    {
+        "date": "2025-08-19 21:25:19",
+        "items": [
+            {
+                "id": 120,
+                "name": "Chips Pack",
+                "purchase_price": 35.0,
+                "selling_price": 42.0,
+                "quantity": 5,
+                "subtotal": 210.0,
+                "profit": 35.0
+            }
+        ],
+        "total": 201.6,
+        "total_profit": 26.6
+    },
+    {
+        "date": "2025-08-19 21:36:20",
+        "items": [
+            {
+                "id": 104,
+                "name": "Sugar 1kg",
+                "purchase_price": 45.0,
+                "selling_price": 54.0,
+                "quantity": 18,
+                "subtotal": 972.0,
+                "profit": 162.0
+            }
+        ],
+        "total": 972.0,
+        "total_profit": 162.0
+    },
+    {
+        "date": "2025-08-19 21:39:04",
+        "items": [
+            {
+                "id": 104,
+                "name": "Sugar 1kg",
+                "purchase_price": 45.0,
+                "selling_price": 54.0,
+                "quantity": 2,
+                "subtotal": 108.0,
+                "profit": 18.0
+            }
+        ],
+        "total": 108.0,
+        "total_profit": 18.0
+    },
+    {
+        "date": "2025-08-20 18:12:15",
+        "items": [
+            {
+                "id": 101,
+                "name": "Milk",
+                "purchase_price": 20.0,
+                "selling_price": 24.0,
+                "quantity": 5,
+                "subtotal": 120.0,
+                "profit": 20.0
+            }
+        ],
+        "total": 120.0,
+        "total_profit": 20.0
+    }
+]

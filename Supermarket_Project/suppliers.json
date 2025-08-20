@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "name": "Fresh Dairy Supplies",
+        "products": [
+            101,
+            107
+        ],
+        "contact": "+91-9876543210",
+        "address": "12 Milk Lane, Pune, Maharashtra",
+        "payment_due": 0.0
+    },
+    {
+        "id": 2,
+        "name": "Daily Bread Distributors",
+        "products": [
+            102,
+            110,
+            111,
+            116,
+            120
+        ],
+        "contact": "+91-9123456780",
+        "address": "45 Baker Street, Bengaluru, Karnataka",
+        "payment_due": 0
+    },
+    {
+        "id": 3,
+        "name": "Agro Rice & Pulses Ltd",
+        "products": [
+            103
+        ],
+        "contact": "+91-9823456712",
+        "address": "78 Grain Market, Raipur, Chhattisgarh",
+        "payment_due": 0
+    },
+    {
+        "id": 4,
+        "name": "Sweet Sugar Company",
+        "products": [
+            104
+        ],
+        "contact": "+91-9785643210",
+        "address": "90 Sweet Street, Kolhapur, Maharashtra",
+        "payment_due": 0.0
+    },
+    {
+        "id": 5,
+        "name": "Salt & Spices Traders",
+        "products": [
+            105
+        ],
+        "contact": "+91-9812345678",
+        "address": "4 Spice Road, Ahmedabad, Gujarat",
+        "payment_due": 0
+    },
+    {
+        "id": 6,
+        "name": "Golden Oil Mills",
+        "products": [
+            106
+        ],
+        "contact": "+91-9988776655",
+        "address": "21 Oil Lane, Coimbatore, Tamil Nadu",
+        "payment_due": 0
+    },
+    {
+        "id": 7,
+        "name": "Tea & Coffee Merchants",
+        "products": [
+            108,
+            109
+        ],
+        "contact": "+91-9678901234",
+        "address": "35 Beverage Street, Kolkata, West Bengal",
+        "payment_due": 0.0
+    },
+    {
+        "id": 8,
+        "name": "Personal Care Hub",
+        "products": [
+            112,
+            113,
+            114
+        ],
+        "contact": "+91-9543216789",
+        "address": "9 Care Avenue, Hyderabad, Telangana",
+        "payment_due": 0
+    },
+    {
+        "id": 9,
+        "name": "Clean & Fresh Detergents",
+        "products": [
+            115
+        ],
+        "contact": "+91-9765432109",
+        "address": "67 Clean Road, Surat, Gujarat",
+        "payment_due": 0
+    },
+    {
+        "id": 10,
+        "name": "Frozen & Chilled Foods",
+        "products": [
+            117
+        ],
+        "contact": "+91-9654321789",
+        "address": "22 Cold Storage, Chandigarh",
+        "payment_due": 0
+    },
+    {
+        "id": 11,
+        "name": "Soft & Pure Beverages",
+        "products": [
+            118,
+            119
+        ],
+        "contact": "+91-9876501234",
+        "address": "8 Drink Plaza, Nagpur, Maharashtra",
+        "payment_due": 0.0
+    }
+]
